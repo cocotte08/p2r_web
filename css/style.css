@@ -3,8 +3,8 @@ body{
   font-size: 14px;
 }
 #home.wrapper{
-  background-image: url('../images/fotolia_121534261.jpg');
-  height: 600px;
+  background-image: url('../images/fotolia_71030049.jpg');
+  height: 700px;
   background-size: cover;
   padding-top: 150px;
   text-align: center;
@@ -12,14 +12,14 @@ body{
 }
 .wrapper{
   background-image: url('../images/fotolia_131725193.jpg');
-  height: 410px;
+  height: 370px;
   background-size: cover;
   width: 100%;
   position: relative;
   background-position: center -100px;  
 }
 #baseline{
-  color: #5A8FA8;
+  color: #cdcfc7;
   font-size: 30px;
   font-weight: bold;
   text-transform: uppercase;
