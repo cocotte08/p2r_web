@@ -104,6 +104,7 @@ section{
  }
 #footer a {
   color: #cdcfc7;
+  text-decoration: none;
 }
 #footer a:hover {
   color: white;
@@ -199,4 +200,8 @@ div.container h1{
 .realisation h2{
   font-size: 20px;
   text-transform: uppercase;
+}
+#images a{
+  color: #ffffff;
+  text-decoration: none;
 }
