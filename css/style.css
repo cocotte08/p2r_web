@@ -19,7 +19,7 @@ body{
   background-position: center -100px;  
 }
 #baseline{
-  color: #cdcfc7;
+  color: #5A8FA8;
   font-size: 30px;
   font-weight: bold;
   text-transform: uppercase;
@@ -180,7 +180,7 @@ ul.nav.navbar-nav.navbar-right{
   background-color: #F7F5F2;
   padding-top: 50px;
   color: #5A8FA8;
-  text-transform: uppercase;
+  text-transform: ppercase;
 }
 .realisation img{
   padding-bottom: 5px;
@@ -193,17 +193,10 @@ ul.nav.navbar-nav.navbar-right{
 .container.room{
   padding-bottom: 20px;
 }
-#video{
-  background-color: #F7F5F2;
-  padding: 40px;
+div.container h1{
+  font-size: 20px;
 }
-#youtubevideo{
- text-align: center;
- padding-top: 20px;
-}
-#video h4{
-  color: #5A8FA8;
-  font-size: 24px;
-  text-align: center;
+.realisation h2{
+  font-size: 20px;
   text-transform: uppercase;
 }
