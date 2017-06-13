@@ -1,0 +1,49 @@
+.wrapper.photo-brightness{
+  background-image: url('../images/fotolia_131725193.jpg');
+  height: 410px;
+  background-size: cover;
+  width: 100%;
+  position: relative;
+  background-position: center -100px;
+  filter:brightness(50%);
+  -webkit-filter: brightness(50%);
+}
+
+<div id="references" class="col-md-12 grid" data-isotope="{ "masonry": { "columnWidth": ".reference" }, "itemSelector": ".reference", "percentPosition": true }">
+  <div class="reference">
+    <div class="picture">
+      <img width="200" height="296" src="images/realisations/20140701_182114.jpg">
+    </div>
+  </div>
+  <div class="reference">
+    <div class="picture">
+      <img width="200" height="249" src="images/realisations/20140701_182138.jpg">
+    </div>
+  </div>
+  
+</div>
+
+
+<div class="container">
+    <div class="col-xs-12">
+      <div class="content">          
+        <p>Salle de bain avant/après</p>
+      </div>
+    </div>
+</div>
+<div class="container">
+  <div class="col-xs-12 col-md-3">
+    <img data-toggle="modal" src="images/realisations/20140701_182220.jpg" width="200">
+  </div>
+  <div class="col-xs-12 col-md-3">
+    <img src="images/realisations/20140701_182228.jpg" width="200">
+  </div>
+  <div class="col-xs-12 col-md-3">
+    <img src="images/realisations/20141117_083946.jpg" width="200">
+  </div>
+  <div class="col-xs-12 col-md-3">
+    <img src="images/realisations/20141016_144525.jpg" width="200">
+  </div>
+</div>
+
+#cdcfc7
