@@ -54,7 +54,6 @@ a#contact-button.btn.btn-primary.btn-lg{
 #contact-button.btn.btn-primary.btn-lg:hover{
 background: #5A8FA8;
 border:0px;
-
 }
 .caption{
   position:absolute;
@@ -209,4 +208,12 @@ div.container h1{
 }
 .col-xs-12{
   float:left;
+}
+div.cookiebanner{
+  position: fixed;
+  left: 0px
+  right:0px;
+  height: auto;
+  min-height: 21px;
+  z-index: 255;
 }
